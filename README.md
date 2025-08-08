@@ -1,7 +1,7 @@
 # Bilinear control of advection diffusion equations
 
 This repository includes codes for computing constrained bilinear control of advection diffusion equations.
-The folder "Matlab" includes all MATLAB files.
+The folder "Matlab" includes all MATLAB files. The main file for the code is "IntegralEquation.m"
 The folder "Figure-data" includes data used in plots.
 
 Consider the following 1-d advection-diffusion-reaction equation on the domain $0\leq t\leq T,x\geq0$:\
